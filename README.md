@@ -1,4 +1,4 @@
-# Module 1 – ESP32 FreeRTOS Tasks (Wokwi)
+# Assignment 1 – ESP32 Tasks (Wokwi)
 
 **Name:** Xander M. Levine  
 **UCFID:** 5519900
